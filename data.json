@@ -1,0 +1,32 @@
+{
+    "products":[
+        {
+            "id":1,
+            "title":"Product 1",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+            "description":"This is product 1",
+            "price":10
+        },
+        {
+            "id":2,
+            "title":"Product 2",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+            "description":"This is product 2",
+            "price":100
+        },
+        {
+            "id":3,
+            "title":"Product 3",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+            "description":"This is product 3",
+            "price":1000
+        },
+        {
+            "id":4,
+            "title":"Product 4",
+            "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+            "description":"This is product 4",
+            "price":10
+        }
+    ]
+}
